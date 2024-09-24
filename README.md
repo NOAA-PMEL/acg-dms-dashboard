@@ -1,7 +1,6 @@
 # acg-dms-dashboard
 Global DMS Database Dashboard
 
-
 ---
 
 ### Legal Disclaimer
